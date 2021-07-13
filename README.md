@@ -1,7 +1,7 @@
 # GRIP-Tasks
 ## Graduate Rotational Internship Program @The Sparks Foundation
 <br>
-These tasks are done under the internship program as a part of July 2021 batch by Marisha Bhatti. The projects mainly come under the domain of Data Science & Business Analytics.
+These tasks are done under the internship program as a part of July 2021 batch by Marisha Bhatti. The projects mainly come under the domain of Data Science & Business Analytics.<br>
 <br>
 ### Tasks:
 <br> - <b>Task 1:</b><br>Prediction using Supervised ML.<br>Simple Linear Regression Task.<br>Predict the percentage of an student based on the number of study hours.<br>Dataset can be seen and used from http://bit.ly/w-data.<br>Mean Absolute Error: 4.183859899002982<br>R2 Score: 0.9454906892105354
