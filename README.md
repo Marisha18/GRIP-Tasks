@@ -2,7 +2,7 @@
 ## Graduate Rotational Internship Program @The Sparks Foundation
 <br>
 These tasks are done under the internship program as a part of July 2021 batch by Marisha Bhatti. The projects mainly come under the domain of Data Science & Business Analytics.
-- Task 1:
+Markup: - Task 1:
 <br>Prediction using Supervised ML.<br>Simple Linear Regression Task.<br>Predict the percentage of an student based on the number of study hours.<br>Dataset can be seen and used from http://bit.ly/w-data.<br>Mean Absolute Error: 4.183859899002982<br>R2 Score: 0.9454906892105354<br>
 - Task 2:
 <br>Prediction using Unsupervised ML.<br>K-Means Clustering Task.<br>Predict the optimum number of clusters and represent it visually.<br>Dataset used is Iris.csv (can also be imported from sklearn.datasets).<br>This notebook has two parts. The first part uses a K-Nearest Neighbors model to perform a simple multi-classification task (Step 1 - 6). The second part tackles the unsupervised machine learning problem using K-Means Clustering model (Step 7 - 9).<br>The KNN model has an accuracy of 0.9736842105263158<br>From the K-Means model we find that the optimum number of clusters is 3.<br>
