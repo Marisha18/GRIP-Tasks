@@ -1,7 +1,7 @@
 # GRIP-Tasks
 ## Graduate Rotational Internship Program @The Sparks Foundation
 <br>
-These tasks are done under the internship program as a part of July 2021 batch by Marisha Bhatti. The projects mainly come under the domain of Data Science & Business Analytics.
+These tasks are done under the internship program as a part of July 2021 batch by Marisha Bhatti. The projects mainly come under the domain of Data Science & Business Analytics.<br><br>
 <ul>
   <li><b>Task 1:</b> Prediction using Supervised ML.
     <ul>
@@ -10,7 +10,7 @@ These tasks are done under the internship program as a part of July 2021 batch b
       <li>Mean Absolute Error: 4.183859899002982</li>
       <li>R2 Score: 0.9454906892105354</li>
     </ul>
-  </li>
+  </li><br>
   <li><b>Task 2:</b> Prediction using Unsupervised ML.
     <ul>
       <li>K-Means Clustering Task. Predict the optimum number of clusters and represent it visually.</li>
@@ -19,7 +19,7 @@ These tasks are done under the internship program as a part of July 2021 batch b
       <li>The KNN model has an accuracy of 0.9736842105263158</li>
       <li>From the K-Means model we find that the optimum number of clusters is 3.</li>
     </ul>
-  </li>
+  </li><br>
   <li><b>Task 3:</b> Exploratory Data Analysis - Retail
     <ul>
       <li>Finding out the weak areas where more profit can be made.</li>
@@ -53,7 +53,7 @@ These tasks are done under the internship program as a part of July 2021 batch b
         </ul>
       </li>
     </ul>
-  </li>
+  </li><br>
   <li><b>Task 4:</b> Exploratory Data Analysis - Terrorism
     <ul>
       <li>Finding out the hot zone of terrorism.</li>
@@ -63,7 +63,7 @@ These tasks are done under the internship program as a part of July 2021 batch b
       <li>Iraq, Pakistan and Afghanistan are the Top 3 countries with most terrorist attacks.</li>
       <li>In Eastern Europe, Middle East, South asia, Southeast Asia and subsaharan Africa there has been a huge increase in terrorist attacks whereas other regions have seen a decrease since 2001.</li>
     </ul>
-  </li>
+  </li><br>
   <li><b>Task 5:</b> Exploratory Data Analysis - Sports
     <ul>
       <li>Finding out the most successful teams, players and factors contributing win or loss of a team.</li>
@@ -73,7 +73,7 @@ These tasks are done under the internship program as a part of July 2021 batch b
       <li>Top Batsmen: Virat Kohli, SK Raina, Rohit Sharma.</li>
       <li>Top Bowlers: TG Southee, AD Mathews, SK Raina.</li>
     </ul>
-  </li>
+  </li><br>
   <li><b>Task 6:</b> Prediction using Decision Tree Algorithm.
     <ul>
       <li>Decision Tree Classifier Task. The classifier would be able to predict the right class given any new data.</li>
@@ -81,7 +81,7 @@ These tasks are done under the internship program as a part of July 2021 batch b
       <li>Mean of Cross Validation Score: 0.9466666666666667</li>
       <li>Standard Deviation of Cross Validation Score: 0.04521553322083511</li>
     </ul>
-  </li>
+  </li><br>
   <li><b>Task 7:</b> Stock Market Prediction using Numerical and Textual analysis.
     <ul>
       <li>Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.</li>
@@ -93,3 +93,4 @@ These tasks are done under the internship program as a part of July 2021 batch b
   </li>
 </ul>
 
+- - -
